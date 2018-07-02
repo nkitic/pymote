@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="all_icons">
+    <file>open_env.png</file>
+    <file>add_edge.png</file>
+    <file>add_node.png</file>
+    <file>delete_edge.png</file>
+    <file>delete_node.png</file>
+    <file>move.png</file>
+    <file>clear.png</file>
+    <file>save.png</file>
+    <file>open.png</file>
+  </qresource>
+</RCC>
